@@ -29,7 +29,3 @@ This Python script implements an abstractive text summarization model using deep
    - Ensures compatibility and efficient usage of computational resources.
 
 This script provides a comprehensive framework for developing and training an LSTM-based Seq2Seq model for abstractive text summarization tasks, suitable for integration into GitHub repositories focused on natural language processing and machine learning applications.
-
---- 
-
-This summary encapsulates the script's purpose, methodology, and outcomes, making it suitable for GitHub repositories or documentation related to deep learning and natural language processing projects.
